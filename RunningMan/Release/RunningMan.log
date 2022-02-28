@@ -1,0 +1,8 @@
+﻿  CGranny.cpp
+C:\Users\Hananta\source\repos\RunningMan\RunningMan\CObject.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  0 of 539 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RunningMan.vcxproj -> C:\Users\Hananta\source\repos\RunningMan\Release\RunningMan1.exe
